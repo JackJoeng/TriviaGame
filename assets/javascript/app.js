@@ -104,7 +104,7 @@ function Question (question, a1, a2, a3, a4, correctAnswer) {
   }
   
   function renderGameOver() {
-    var output = "<h2>Let's see how you did...</h2>";
+    var output = "<h2>Result</h2>";
     output += "<table><tbody><tr><td class='left'>";
     output += "Correct:</td><td class='left'>  "+correct+"</td></tr><tr><td class='left'>";
     output += "Incorrect:</td><td class='left'>  "+incorrect+"</td></tr><tr><td class='left'>";
