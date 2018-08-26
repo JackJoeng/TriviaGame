@@ -6,6 +6,8 @@ This a Trivia game using JavaScript for the logic and jQuery to manipulate HTML.
 
 ![](assets/images/readme.png)
 
+<a href="https://jackjoeng.github.io/TriviaGame">Check it out!</a>
+
 ### Assignment Instructions: Advanced Assignment (Timed Questions)
 
 * You'll create a trivia game that shows only one question until the player answers it or their time runs out.
