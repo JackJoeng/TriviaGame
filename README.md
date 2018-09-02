@@ -2,7 +2,7 @@
 
 ### Overview
 
-This a Trivia game using JavaScript for the logic and jQuery to manipulate HTML. 
+This is a Trivia game using JavaScript for the logic and jQuery to manipulate HTML. 
 
 ![](assets/images/readme.png)
 
